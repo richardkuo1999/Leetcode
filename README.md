@@ -1,5 +1,6 @@
 # Leetcode
-## 2022/07/16
+## <summary>2022/07/16</summary>
+
 ### 26.Remove Duplicates from Sorted Array </p>
 學習 **vector資料容器** 與 **auto自動變數用法** </p>
 #### vector:線性、長度可變的資料容器</p>
@@ -42,3 +43,4 @@
             cout << n << endl;
         }
 ```
+### 122. Best Time to Buy and Sell Stock II</p>
