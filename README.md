@@ -26,6 +26,7 @@
     新增:
         number.push_back():新增元素至尾端
         number.insert(位置,插入的值):指定位置的元素之前插入一個或多個新元素
+        number.insert(position, iterator1, iterator2):指定要在vector中插入插入元素的起始位置(iterator1)與結束位置(iterator2)
         
     清除:
         number.pop_back():刪除最尾端的元素
@@ -46,5 +47,5 @@
         }
 ```
 ### 122. Best Time to Buy and Sell Stock II</p>
-
+### 1929. Concatenation of Array</p>
 </details>
