@@ -1,6 +1,6 @@
 # Leetcode
 
-<details open>
+<details>
 <summary>2022/07/16</summary>
 
 ### 26.Remove Duplicates from Sorted Array </p>
@@ -58,7 +58,7 @@ vector::insert (position, initializer_list<value_type> il);
 
 
 
-<details open>
+<details>
 <summary>2022/07/17</summary>
 
 ### 189. Rotate Array
