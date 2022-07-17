@@ -22,7 +22,7 @@ vector<int> number;
 vector<int> number(10); : 設置起始長度
 vector<int> number = {10, 20, 30};
 ```
-```
+
 函式:
 ```
 vector::size():得知元素大小
