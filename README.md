@@ -47,7 +47,6 @@
 ```
 ### 122. Best Time to Buy and Sell Stock II</p>
 ### 1929. Concatenation of Array</p>
-
 ````
 vector::insert(position,const value_type& val); :指定位置插入，一個或多個新元素
 vector::insert (position, n, val); :指定位置插入，n次一個或多個新元素
@@ -55,4 +54,17 @@ vector::insert(position, iterator1, iterator2):指定位置插入，新元素的
 vector::insert (position, value_type&& val);
 vector::insert (position, initializer_list<value_type> il);
 ````
+</details>
+
+
+
+<details open>
+<summary>2022/07/17</summary>
+
+### 189. Rotate Array
+```
+std::reverse(v.begin(), v.end()); :反轉vector(1 2 3 4 5 -> 5 4 3 2 1)
+```
+### 217. Contains Duplicate
+
 </details>
