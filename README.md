@@ -58,14 +58,16 @@ for(auto n : nums) {
 ### 122. Best Time to Buy and Sell Stock II</p>
 ### 1929. Concatenation of Array</p>
 學習 **vector::insert** 用法 </p>
-````
+```
 vector::insert(position,const value_type& val); :指定位置插入，一個或多個新元素
 vector::insert (position, n, val); :指定位置插入，n次一個或多個新元素
 vector::insert(position, iterator1, iterator2):指定位置插入，新元素的起始位置(iterator1)與結束位置(iterator2)
 vector::insert (position, value_type&& val);
 vector::insert (position, initializer_list<value_type> il);
-````
+```
 </details>
+
+
 
 
 
