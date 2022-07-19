@@ -19,9 +19,6 @@ public:
         for(;slow < max;slow++){
             nums[slow] = 0;
         }
-        for(auto i :nums){
-            cout << i << " ";
-        }
     }
 };
 
