@@ -123,12 +123,8 @@ std::unordered_map::end():指向容器最後一個元素的迭代器
 ### 118. Pascal's Triangle
 二維vector宣告:</p>
 ```
-vector<vector<int>> vec(5): 5 x 5
-
-<vector<int>> vec[5];
-vec[0].push_back(5);
-vec[1].push_back(3);
-[[5][3][][][]]
+vector<vector<int>> vec(5); 5 x 1  
+vector<vector<int>> vec(5, vector<int>(3, 1)); : 5 x 3 全為1
 
 vector<vector<int>> matrix {
         {1, 1, 1, 1},
