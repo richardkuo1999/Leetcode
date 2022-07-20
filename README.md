@@ -31,7 +31,7 @@ vector::front():取得第一個元素
 vector::back():取得最後一個元素
 vector::begin():指向容器第一個元素的迭代器
 vector::end():指向容器最後一個元素的迭代器
-    
+vector::swap(vector); :將一個向量的內容與另一個向量交換。
 新增:
     vector::push_back():新增元素至尾端
     vector::insert(position,val):指定位置的元素之前插入一個或多個新元素 
@@ -81,9 +81,9 @@ std::reverse(v.begin(), v.end()); :反轉vector(1 2 3 4 5 -> 5 4 3 2 1)
 ### 1.Two Sum
 學習 **std::unordered_map** 用法 </p>
 unordered_map 裡面的存放資料是無序的</p>
-```
+
 unordered_map 初始化:
-```
+
 ```
 std::unordered_map<std::string, int> umap = {
     {"Tom", 1},
@@ -136,4 +136,12 @@ vector<vector<int>> matrix {
         {3, 3, 3, 3}
     };
 ```
+
+</details>
+
+<details>
+<summary>2022/07/19</summary>
+
+### 350. Intersection of Two Arrays II
+
 </details>
