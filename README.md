@@ -143,5 +143,6 @@ vector<vector<int>> matrix {
 <summary>2022/07/19</summary>
 
 ### 350. Intersection of Two Arrays II
+### 217. Contains Duplicate
 
 </details>
