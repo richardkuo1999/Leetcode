@@ -136,9 +136,14 @@ vector<vector<int>> matrix {
 </details>
 
 <details>
-<summary>2022/07/19</summary>
+<summary>2022/07/20</summary>
 
 ### 350. Intersection of Two Arrays II
 ### 217. Contains Duplicate
+### 36. Valid Sudoku
+```
+char用單引號(')
+string用雙引號(")
+```
 
 </details>
