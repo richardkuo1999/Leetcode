@@ -160,8 +160,8 @@ binary_search:
     ForwardIterator  upper_bound (Iterator_begin , Iterator_end, val);   : 找比val大的位置
     ForwardIterator  lower_bound (Iterator_begin , Iterator_end, val);   : 找比val大於等於的位置
 ```
+肥大的東西盡量用Reference或point傳進副函式:
 ```
-肥大的東西盡量用Reference或point傳進副函式
 如792Number_of_Matching_Subsequences.cpp中
 36: bool search(unordered_map<char, vector<int>> umap, string word)會將umap和word全部複製一次
 應改為bool search(unordered_map<char, vector<int>> &umap, string &word)
