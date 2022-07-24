@@ -18,7 +18,7 @@ function name             finction body
     return 0;
 }                            _↑
 ```
-
+<br></p>
 
 # 1.2 Input/Output</p>
 ```
@@ -55,7 +55,7 @@ Comments help the human readers of our programs.</p>
 2.Ideentify the purpose of a variable.
 3.Clearify an otherwise obscure segmemt of code.
 ```
-
+<br></p>
 Comment starts with a **//** and end with a **newline**. </p>
 ```
 //
@@ -64,5 +64,56 @@ Comment starts with **/\*** and end with a **\\***. </p>
 ```
 /* ............*/
 ```
+<br></p>
+
+# 1.4  Flow Control
+while: **repeatedly executes** a section of code as given condition is **true**
+```
+while(condition){
+    statement(code)
+}
+
+int value;
+while(cin >> value) //keep reading numbers until no number to read.
+```
+<br></p>
+for: 
+```
+for(int i = 0 ; i<10; i++)
+        ||
+int i = 0;
+while(10 > i)
+    i++;
+```
+<br></p>
+if: Supports conditinal execution.
+```
+if(condition){
+    statement(code)
+}
+
+int value;
+if(cin >> value)
+```
+<br></p>
+Most common kinds of errors a compiler will detect.</p>
+Syntax error: </p>
+```
+Grammatical error.
+```
+Type error:</p>
+```
+Passing a error data type(string) to another data type data(int).
+```
+Declaration errors: 
+```
+1.Failure to declare.
+2.Forgetting to use std:: for a name from the library.
+3.Misspelling the name of an identifier.
+```
+<br></p>
+
+# 1.5  Introducing Classes
+
 
 </details>
