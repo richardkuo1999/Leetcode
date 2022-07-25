@@ -86,12 +86,12 @@ while(10 > i)
     i++;
 ```
 <br></p>
-if: Supports conditinal execution.
+if: Supports conditinal execution.</p>
 ```
 if(condition){
     statement(code)
-}
-
+```
+```
 int value;
 if(cin >> value)
 ```
@@ -114,6 +114,43 @@ Declaration errors:
 <br></p>
 
 # 1.5  Introducing Classes
+class:
+```
+A class defines a type along with a collection of operations that are related to that type.
+```
+Member Function:
+```
+A function that is fefined as part of a class.
+```
+example:
+```
+book1.isbn
+    dot operator("."): the isbn menber of the object named book1.
+    
+book1.getisbn()
+    call operator("()"): Call the getisbn function that is a member of the book1.
+```
+</details>
 
+
+
+
+
+
+
+
+
+
+<details open>
+<summary>Other</summary></p>
+
+Headers from the standard library include:</p>
+```
+angle brackets(< >)
+```
+Not part of the library:</p>
+```
+doublee quotes(" ")
+```
 
 </details>
