@@ -172,5 +172,12 @@ binary_search:
 <summary>2022/07/26</summary>
 
 ### 344. Reverse String
+###　7. Reverse Integer
+int 根據32bit或64bit有不同的上限
+```
+#include <climits>
+INT_MAX：int上限
+INT_MIN：int下限
+```
 
 </details>
