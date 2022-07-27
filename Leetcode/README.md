@@ -186,6 +186,17 @@ INT_MIN：int下限
 <summary>2022/07/27</summary>
 
 ### 387. First Unique Character in a String
+### 242. Valid Anagram
+### 125. Valid Palindrome
+從給定範圍[first, last]中剔除所有滿足條件的元素:
+```
+#include <algorithm>
 
-
+ForwardIterator remove_if (ForwardIterator first, ForwardIterator last,UnaryPredicate pred);
+```
+string的erase"
+```
+#include <string>
+與vector的erase用法一樣
+```
 </details>
