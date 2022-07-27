@@ -181,3 +181,11 @@ INT_MIN：int下限
 ```
 
 </details>
+
+<details>
+<summary>2022/07/27</summary>
+
+### 387. First Unique Character in a String
+
+
+</details>
