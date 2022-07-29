@@ -212,4 +212,6 @@ string的erase"
 <summary>2022/07/29</summary>
 
 ### 28. Implement strStr()
+### 14. Longest Common Prefix
+
 </details>
