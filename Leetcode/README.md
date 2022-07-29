@@ -213,5 +213,6 @@ string的erase"
 
 ### 28. Implement strStr()
 ### 14. Longest Common Prefix
+### 890. Find and Replace Pattern
 
 </details>
