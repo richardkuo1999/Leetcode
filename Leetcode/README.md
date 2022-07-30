@@ -216,3 +216,19 @@ string的erase"
 ### 890. Find and Replace Pattern
 
 </details>
+
+
+<details>
+<summary>2022/07/30</summary>
+
+### 412. Fizz Buzz
+
+返回具有val表示形式的string。
+```
+std::to_string (val);
+
+val type:
+    int, long long, unsigned, unsigned long, unsigned long long, float, double,long double
+```
+
+</details>
