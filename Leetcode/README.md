@@ -231,4 +231,6 @@ val type:
     int, long long, unsigned, unsigned long, unsigned long long, float, double,long double
 ```
 
+### 204. Count Primes
+
 </details>
